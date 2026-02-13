@@ -415,7 +415,7 @@ ABILITY_BURGEONINGBARRIER2_DESC,"Gain {v0} [img:shield]. Increase this spell's [
 [s:.7](Castable once per battle.)[/s]",,"Obtiene {v0} [img:shield]. Aumenta en 3 el [img:shield] de este hechizo al final de cada turno.
 [s:.7](Se puede lanzar una vez por combate).[/s]",[img:shield]&nbsp;+{v0}. Augmente de&nbsp;3&nbsp;à la fin de chaque tour. [s:.7](Une fois par combat.)[/s],"Erhalte {v0}&nbsp;[img:shield]. Erhöhe den [img:shield] dieses Zaubers am Ende jedes Zuges um 3.
 [s:.7](Einmal pro Kampf verwendbar.)[/s]","Ottieni {v0} di [img:shield]. Potenzi lo [img:shield] di questo incantesimo di 3 alla fine di ogni turno.
-[s:.7](Lanciabile una volta per battaglia.)[/s","Obtenha {v0} de [img:shield]. Aumente o [img:shield] deste encantamento em 3 no final de cada turno.
+[s:.7](Lanciabile una volta per battaglia.)[/s]","Obtenha {v0} de [img:shield]. Aumente o [img:shield] deste encantamento em 3 no final de cada turno.
 [s:.7](Um lançamento por batalha.)[/s]","获得{v0} [img:shield]。每回合结束时，
 此法术的[img:shield]增加3。
 [s:.7](每场战斗只能施放一次。)[/s]"
@@ -2642,7 +2642,7 @@ ABILITY_MONKEYTOSS2_DESC,"Throw an adjacent unit to another tile. It takes damag
 
 [s:.7](此法术消耗更少。)[/s]"
 ABILITY_FORMOFTHETURTLE_NAME,Form of the Turtle,,Forma de la tortuga,Forme de la tortue,Schildkrötengestalt,Sembianze della Tartaruga,Forma da Tartaruga,乌龟形态
-ABILITY_FORMOFTHETURTLE_DESC,"Enter Turtle Form, getting +2 [img:con], +10 [img:shield], -2 [img:int], and -2 [img:spd]. Your basic attack becomes Head Bash and this becomes Harden Shell.",,"Adopta la forma de la tortuga y obtiene +2 [img:con], +10 [img:shield], -2 [img:int] y -2 [img:spd]. El ataque básico se convierte en Golpe con la cabeza y este se convierte en Endurecimiento de caparazón.","Prenez la forme de la tortue&nbsp;: [img:con]&nbsp;+2, [img:shield]&nbsp;+10, [img:int]&nbsp;-2&nbsp;et [img:spd]&nbsp;-2. Votre attaque de base devient Coup de tête et ce sort devient Carapace.","Nimm Schildkrötengestalt an und erhalte +2&nbsp;[img:con], +10&nbsp;[img:shield], -2&nbsp;[img:int] und -2&nbsp;[img:spd]. Dein Grundangriff wird zu Kopfnuss und diese Fähigkeit wird zu Harte Schale.","Assumi le Sembianze della Tartaruga, ottenendo +2 alla [img:con], +10 allo [img:shield], -2 all'[img:int] e -2 alla [img:spd]. Il tuo attacco base diventa Testata e quest'abilità diventa Guscio Indurito.","Entre na forma de tartaruga, obtendo +2 de [img:con], +10 de [img:shield], -2 de [img:int] e [-2 de [img:spd]. Seu ataque básico se torna Cabeçada e isto se torna Casca Dura.","进入乌龟形态，获得 +2 [img:con]，
+ABILITY_FORMOFTHETURTLE_DESC,"Enter Turtle Form, getting +2 [img:con], +10 [img:shield], -2 [img:int], and -2 [img:spd]. Your basic attack becomes Head Bash and this becomes Harden Shell.",,"Adopta la forma de la tortuga y obtiene +2 [img:con], +10 [img:shield], -2 [img:int] y -2 [img:spd]. El ataque básico se convierte en Golpe con la cabeza y este se convierte en Endurecimiento de caparazón.","Prenez la forme de la tortue&nbsp;: [img:con]&nbsp;+2, [img:shield]&nbsp;+10, [img:int]&nbsp;-2&nbsp;et [img:spd]&nbsp;-2. Votre attaque de base devient Coup de tête et ce sort devient Carapace.","Nimm Schildkrötengestalt an und erhalte +2&nbsp;[img:con], +10&nbsp;[img:shield], -2&nbsp;[img:int] und -2&nbsp;[img:spd]. Dein Grundangriff wird zu Kopfnuss und diese Fähigkeit wird zu Harte Schale.","Assumi le Sembianze della Tartaruga, ottenendo +2 alla [img:con], +10 allo [img:shield], -2 all'[img:int] e -2 alla [img:spd]. Il tuo attacco base diventa Testata e quest'abilità diventa Guscio Indurito.","Entre na forma de tartaruga, obtendo +2 de [img:con], +10 de [img:shield], -2 de [img:int] e -2 de [img:spd]. Seu ataque básico se torna Cabeçada e isto se torna Casca Dura.","进入乌龟形态，获得 +2 [img:con]，
 +10 [img:shield]，-2 [img:int]，和 -2 [img:spd]。
 
 你的基础攻击变为撞头击，
@@ -4716,7 +4716,7 @@ ABILITY_THINKTOOHARD_NAME,Think Too Hard,,Sobrepensamiento,Intelligence douloure
 ABILITY_THINKTOOHARD_DESC,"Take damage equal to your [img:int].
 The next spell you cast this turn is free.",,"Sufre una cantidad de daño igual a su [img:int].
 El siguiente hechizo que lance este turno es gratis.",Vous subissez des dégâts à hauteur de votre [img:int]. Votre prochain sort pendant ce tour est gratuit.,"Erleide Schaden in Höhe deiner [img:int].
-Der nächste Zauber, den du in diesem Zug wirkst, ist kostenlos.","Subisci danno pari alla tua [image:int].
+Der nächste Zauber, den du in diesem Zug wirkst, ist kostenlos.","Subisci danno pari alla tua [img:int].
 Il prossimo incantesimo che lanci in questo turno è gratuito.","Sofra dano equivalente à sua [img:int].
 O próximo encantamento que você lançar neste turno é grátis.","受到等同于你的 [img:int] 的伤害。
 你本回合施放的下一个法术免费。
@@ -4724,7 +4724,7 @@ O próximo encantamento que você lançar neste turno é grátis.","受到等同
 ABILITY_THINKTOOHARD2_DESC,"Take damage equal to your [img:int], then your [img:int] becomes 0.
 The next spell you cast this turn is free.",,"Sufre una cantidad de daño igual a su [img:int] y luego, su [img:int] se convierte en 0.
 El siguiente hechizo que lance este turno es gratis.",Vous subissez des dégâts à hauteur de votre [img:int] qui descend ensuite à 0. Votre prochain sort pendant ce tour est gratuit.,"Erleide Schaden in Höhe deiner [img:int]. Deine [img:int] wird auf 0 gesetzt.
-Der nächste Zauber, den du in diesem Zug wirkst, ist kostenlos.","Subisci danno pari alla tua [image:int], poi la tua [img:int] diventa 0.
+Der nächste Zauber, den du in diesem Zug wirkst, ist kostenlos.","Subisci danno pari alla tua [img:int], poi la tua [img:int] diventa 0.
 Il prossimo incantesimo che lanci in questo turno è gratuito.","Sofra dano equivalente à sua [img:int], e então sua [img:int] se torna 0.
 O próximo encantamento que você lançar neste turno é grátis.","受到等同于你的 [img:int] 的伤害，
 然后你的 [img:int] 变为 0。
