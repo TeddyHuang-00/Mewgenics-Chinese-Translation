@@ -2320,9 +2320,9 @@ Può subire danno solo da attacchi frontali.
 Genera Melma.","Dispara diagonalmente ou dá um impulso para frente, deixando uma mosca para trás.
 Só pode sofrer dano pela frente.
 Gera gosma.","斜向射击或冲刺向前，
-留下一个蝇爪。
+留下一个苍蝇。
 只能从正面受到伤害。
-生成爬行物。"
+生成腐液。"
 ENEMY_CANCREEPEROUT_DESC,"Ranged attacker.
 Must be in creep to attack.",,"Atacante a distancia.
 Debe estar en líquido tóxico para atacar.","Attaque à distance.
@@ -2330,7 +2330,7 @@ Doit se tenir dans de la bave toxique pour attaquer.","Fernkämpfer.
 Muss sich in Ekelschleim aufhalten, um anzugreifen.","Specialista degli attacchi a distanza.
 Per poter attaccare deve trovarsi nella melma.","Agressor à distância.
 Precisa estar em gosma para atacar.","远程攻击者。
-必须在爬行物中才能攻击。"
+必须在腐液中才能攻击。"
 ENEMY_BIGSLIME_NAME,Big Slime,,Gran Malababa,Gros vasard,Großer Schleim,Gelatina Grande,Geleia Grande,大史莱姆
 ENEMY_BIGSLIME_DESC,"Melee attacker.
 Splits into 4 medium Slimes on death.",,"Atacante cuerpo a cuerpo.
@@ -2553,7 +2553,7 @@ Spara un colpo di melma velenoso a parabola quando subisce danno.
 Esegue un attacco in salto con Contraccolpo.","Cego.
 Realiza um disparo de gosma em arco ao sofrer dano.
 Realiza um ataque de salto com empurrão.","致盲。
-受到伤害时投掷中毒爬行射击。
+受到伤害时投掷中毒腐液射击。
 进行带击退的跳跃攻击。"
 ENEMY_SPIDERQUEEN_NAME,Spinnerette,,Hiladora,Arachnéa,Spinnenkönigin,Giravoltette,Girerette,旋蛛
 ENEMY_SPIDERQUEEN_DESC,"Does a bite attack.

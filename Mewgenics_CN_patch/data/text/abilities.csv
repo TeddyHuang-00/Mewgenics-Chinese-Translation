@@ -1840,10 +1840,10 @@ Isto causa 25 de dano a chefes ao invés de matá-los.
 而不是秒杀。"
 ABILITY_UNBRIDLEDHITS_NAME,Unbridled Hits,,Golpes desenfrenados,Coups débridés,Hemmungslose Schläge,Colpi Selvaggi,Golpes Desenfreados,不羁连击
 ABILITY_UNBRIDLEDHITS_DESC,A weak melee attack that hits an extra time for each empty armor slot you have.,,Un ataque cuerpo a cuerpo débil que golpea 1 vez adicional por cada espacio de armadura vacío que tenga.,Une faible attaque au corps-à-corps qui frappe une fois de plus pour chaque emplacement d'armure vide.,"Ein schwacher Nahkampfangriff, der für jeden freien Rüstungsplatz ein zusätzliches Mal trifft.",Un attacco corpo a corpo debole che colpisce una volta in più per ogni slot armatura vuoto di cui disponi.,Um ataque corpo-a-corpo fraco que golpeia uma vez adicional para cada espaço de armadura vazio que você possui.,"一个弱的近战攻击，
-根据你空着的护甲槽数额外攻击一次。
+根据你空着的装备槽数额外攻击一次。
 "
 ABILITY_UNBRIDLEDHITS2_DESC,A weak melee attack that hits two extra times for each empty armor slot you have.,,Un ataque cuerpo a cuerpo débil que golpea 2 veces adicionales por cada espacio de armadura vacío que tenga.,Une faible attaque au corps-à-corps qui frappe deux fois de plus pour chaque emplacement d'armure vide.,"Ein schwacher Nahkampfangriff, der für jeden freien Rüstungsplatz zwei zusätzliche Male trifft.",Un attacco corpo a corpo debole che colpisce due volte in più per ogni slot armatura vuoto di cui disponi.,Um ataque corpo-a-corpo fraco que golpeia duas vezes adicionais para cada espaço de armadura vazio que você possui.,"一个弱的近战攻击，
-根据你空着的护甲槽数每次额外攻击两次。
+根据你空着的装备槽数每次额外攻击两次。
 "
 ABILITY_KAMEHAMEHA_NAME,Kamehameha,,Onda vital,Kaméhaméha,Kamehameha,Kamehameha,Kamehameha,龟派气功
 ABILITY_KAMEHAMEHA_DESC,"Fire a magic blast at a unit within 5 tiles. Requires line of sight.
@@ -1854,7 +1854,7 @@ ABILITY_KAMEHAMEHA_DESC,"Fire a magic blast at a unit within 5 tiles. Requires l
 [s:.7](Um lançamento por batalha. Se todos os seus espaços de armadura estiverem vazios, um lançamento por turno.)[/s]","向距离5格内的单位释放魔法冲击。
 
 需要在视线内。
-[s:.7](每场战斗可施放一次。如果所有护甲槽均为空，每回合可施放一次。)[/s]"
+[s:.7](每场战斗可施放一次。如果所有装备槽均为空，每回合可施放一次。)[/s]"
 ABILITY_KAMEHAMEHA2_DESC,"Fire a magic blast at a unit anywhere within your line of sight.
 [s:.7](Castable once per battle. If all your armor slots are empty, castable once per turn.)[/s]",,"Dispara una explosión mágica a una unidad en cualquier casilla en el campo visual de esta unidad.
 [s:.7](Se puede lanzar una vez por combate. Si todos los espacios de armadura están vacíos, se puede lanzar una vez por turno).[/s]","Tire une explosion magique sur une unité dans votre ligne de vue. [s:.7](Une fois par combat, ou une fois par tour si tous vos emplacements d'armure sont vides.)[/s]","Feuere eine magische Explosion auf eine Einheit in deiner Sichtlinie.
@@ -1863,7 +1863,7 @@ ABILITY_KAMEHAMEHA2_DESC,"Fire a magic blast at a unit anywhere within your line
 [s:.7](Um lançamento por batalha. Se todos os seus espaços de armadura estiverem vazios, um lançamento por turno.)[/s]","向视线范围内的任何单位释放魔法冲击。
 
 [s:.7](每场战斗可施放一次。
-如果所有护甲槽均为空，
+如果所有装备槽均为空，
 每回合可施放一次。)[/s]"
 ABILITY_SIDESTEP_NAME,Sidestep,,Paso lateral,Pas de côté,Ausweichmanöver,Schivata Laterale,Passo Lateral,侧步
 ABILITY_SIDESTEP_DESC,Move one tile and gain +1 [img:shield].,,Se mueve una casilla y obtiene +1 [img:shield].,Déplacez-vous d'une case et gagnez [img:shield]&nbsp;+1.,Bewege dich um ein Feld und erhalte +1&nbsp;[img:shield].,Ti sposti di una casella e ottieni +1 allo [img:shield].,Mova-se 1 espaço e obtenha +1 de [img:shield].,移动一格并获得 +1 [img:shield]。
@@ -1884,7 +1884,7 @@ X è uguale al numero di slot armatura vuoti di cui disponi più uno.","Dê um i
 X é equivalente à quantidade de espaços de armadura vazios que você possui mais um.","向前冲刺X格，获得+X [img:shield]，
 造成X点伤害，并造成X点击退。
 
-X等于你空护甲槽数量加一。"
+X等于你空装备槽数量加一。"
 ABILITY_UNIMPEDEDLUNGE2_DESC,"Dash forward X spaces, gain +X [img:shield], deal X damage, and deal X knockback.
 X is equal to twice the number of empty armor slots you have.",,"Se lanza hacia delante X casillas, obtiene +X [img:shield], inflige X de daño e inflige X de retroceso.
 La X es una cantidad igual al doble del número de espacios de armadura vacíos que tenga.","Foncez en avant de X&nbsp;cases, gagnez [img:shield]&nbsp;+X, infligez X&nbsp;points de dégâts et Recul&nbsp;+X. X est égal au nombre d'emplacements d'armure vides x2.","Stürme X Felder vorwärts, erhalte +X&nbsp;[img:shield], verursache X&nbsp;Schaden und Rückstoß.
@@ -1893,7 +1893,7 @@ X è uguale al doppio del numero di slot armatura vuoti di cui disponi.","Dê um
 X é equivalente ao dobro da quantidade de espaços de armadura vazios que você possui.","向前冲刺X格，获得+X [img:shield]，
 造成X点伤害，并造成X点击退。
 
-X等于你空护甲槽数量的两倍。"
+X等于你空装备槽数量的两倍。"
 ABILITY_DOUBLEDRAGON_NAME,Double Dragon,,Dragón doble,Dragon double,Doppeldrache,Double Dragon,Dragão Duplo,双龙
 ABILITY_DOUBLEDRAGON_DESC,"Summon a 1 HP illusion of yourself within three tiles that mimics your basic attack, but in the opposite direction of you. It dies at the end of your turn.",,"En un radio de 3 casillas invoca una ilusión de sí misma con 1 PS que imita su ataque básico, pero en la dirección opuesta. Muere al final del turno.","Invoque une illusion de vous-même à 1&nbsp;PV à moins de 3&nbsp;cases qui imite votre attaque de base, mais dans la direction opposée par rapport à vous. Meurt à la fin de votre tour.","Beschwöre innerhalb von drei Feldern eine Illusion deiner selbst, die 1&nbsp;LP hat und deinen Grundangriff in die entgegengesetzte Richtung ausführt. Sie stirbt am Ende deines Zuges.","Evochi una tua illusione dotata di 1 PS entro tre caselle che imita il tuo attacco base, ma nella direzione opposta alla tua. Muore alla fine del tuo turno.","Invoque uma ilusão sua com 1 PV dentro de três espaços de distância que imita seu ataque básico, porém na direção oposta da sua. Ela morre no final do seu turno.","在3格内召唤一个拥有1生命值的幻影，
 
